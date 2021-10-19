@@ -7,3 +7,8 @@ Simple arduino-based solution to prevent water overflow from overhead tanks of u
 - Buzzer alert as water level reaches maximum
 
 ### Schematics
+![Receiver_schematic](/Nano-Receiver.jpg)
+_Fig 1 - Receiver Circuit_
+
+![Transmitter_schematic](/Nano-Transmitter.jpg)
+_Fig 2 - Transmitter Circuit_
