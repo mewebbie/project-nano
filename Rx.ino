@@ -28,7 +28,7 @@ void loop() {
     }
     delay(100);
     Serial.print(text);
-    Serial.print("cm\n");
+    Serial.print("cm.\n");
     digitalWrite(13,LOW);
   }
 } 
