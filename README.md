@@ -5,7 +5,7 @@ Simple arduino-based solution to prevent water overflow from overhead tanks of u
 ### Features
 - Wireless data transmission using nRF24L01 module.
 - Buzzer alert as water level reaches maximum.
-- Arduino nano is the smallest board of all members in theArduino family.
+- Arduino nano is the smallest board of all members in the Arduino family.
 
 ### Schematics
 ![Receiver_schematic](/Nano-Receiver.jpg)
